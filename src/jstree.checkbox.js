@@ -184,3 +184,4 @@ Adds checkboxes to the tree.
 	// include the checkbox plugin by default
 	$.jstree.defaults.plugins.push("checkbox");
 })(jQuery);
+

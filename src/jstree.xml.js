@@ -182,3 +182,4 @@ This plugin makes it possible for jstree to use XML data sources.
 	// include the html plugin by default
 	$.jstree.defaults.plugins.push("xml");
 })(jQuery);
+
